@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Niraj Makvana
 
-<!--
-**NirajMakvana/nirajmakvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 UI/UX Designer & Graphic Designer from Surat, Gujarat
+💻 BCA Graduate | Figma · Adobe · HTML/CSS · JavaScript
+📍 Surat, India
+🔗 Portfolio | Behance | LinkedIn
 
-Here are some ideas to get you started:
+### Skills
+`Figma` `UI Design` `UX Research` `Prototyping` `Graphic Design`
+`Adobe Photoshop` `Illustrator` `HTML` `CSS` `JavaScript`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+LinkedIn · Behance · Instagram · Email
